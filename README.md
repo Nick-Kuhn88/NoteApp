@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Note Taking App!
+A front-end React application consisting of images, CSS, and Javascript, with a
+back-end Rails API, which renders JSON and interacts with the front-end.
+https://note-app-nick-kuhn.herokuapp.com/
+<img src="ScreenShot.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
